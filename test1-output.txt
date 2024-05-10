@@ -1,0 +1,33 @@
+Stage 1
+==========
+Number of POIs: 11
+POI #0 has the largest number of categories:
+a b c d e
+
+Stage 2
+==========
+POIs in Q0: none
+POIs in Q1: none
+POIs in Q2: 0 1
+
+Stage 3
+==========
+12 unique POI categories:
+a, b, c, d, e
+f, aa, bb, cc, dd
+ee, ff
+
+Stage 4
+==========
+a: 0
+aa: 6
+b: 0 1
+bb: 6 7
+c: 0 1 2
+cc: 6 7 8
+d: 0 1 2 3
+dd: 6 7 8 9
+e: 0 1 2 3 4
+ee: 6 7 8 9 10
+f: 1 2 3 4 5
+ff: 7 8 9 10

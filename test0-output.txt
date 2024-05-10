@@ -1,0 +1,38 @@
+Stage 1
+==========
+Number of POIs: 12
+POI #2 has the largest number of categories:
+shop supermarket atm coles woolworths
+
+Stage 2
+==========
+POIs in Q0: 4 11
+POIs in Q1: none
+POIs in Q2: 5
+POIs in Q3: none
+POIs in Q4: 7 9 10
+
+Stage 3
+==========
+15 unique POI categories:
+petrol, atm, carwash, shop, supermarket
+coles, woolworths, cinema, movie, theatre
+gas, carpark, cafe, hotel, restaurant
+
+Stage 4
+==========
+atm: 0 1 2 8 9 10 11
+cafe: 7 9 10
+carpark: 7 8 11
+carwash: 0 5 6
+cinema: 4 11
+coles: 2
+gas: 5
+hotel: 8
+movie: 4 11
+petrol: 0 5 6
+restaurant: 8
+shop: 2 7 10
+supermarket: 2 3
+theatre: 4 11
+woolworths: 2

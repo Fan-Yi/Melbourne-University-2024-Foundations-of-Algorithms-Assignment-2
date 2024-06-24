@@ -190,7 +190,7 @@ stage_one(poi_t* poi_arr) {
 		{
 			printf(" ");
 		}
-		printf(" %s", poi_arr[index_of_max_cat_cnt_record].categories[i]);
+		printf("%s", poi_arr[index_of_max_cat_cnt_record].categories[i]);
 	}
 	printf("\n");
 	printf("\n");
